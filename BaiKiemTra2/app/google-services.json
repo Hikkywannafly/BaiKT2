@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "314136892439",
+    "firebase_url": "https://baikiemtra2-fd677-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "baikiemtra2-fd677",
+    "storage_bucket": "baikiemtra2-fd677.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314136892439:android:969a907bc85bcc13fdf852",
+        "android_client_info": {
+          "package_name": "com.hikky.BaiKiemTra2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314136892439-vrr5s1b8j54dum1vsu9d03hpcdlk0rld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9vizjNqJp-2BG60uYCowSZZ-7V_wfPdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314136892439-vrr5s1b8j54dum1vsu9d03hpcdlk0rld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314136892439:android:0b5faf46a1238163fdf852",
+        "android_client_info": {
+          "package_name": "com.hikky.baikiemtra2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314136892439-vrr5s1b8j54dum1vsu9d03hpcdlk0rld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9vizjNqJp-2BG60uYCowSZZ-7V_wfPdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314136892439-vrr5s1b8j54dum1vsu9d03hpcdlk0rld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
